@@ -1,0 +1,21 @@
+
+.prince{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn button{
+    background-color: red;
+    width:200px;
+    height: 50px;
+    color:white;
+    font-size: 30px;
+    border-radius: 20px solid black;
+    cursor: pointer;
+}
